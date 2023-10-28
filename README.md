@@ -1,37 +1,40 @@
-# fulah peul
+# fula peul
+
+## alphabet
 a b ɓ mb c d ɗ nd e f g ng h i j nj k l m n ŋ ñ o p q r s sh t u w x y ƴ z
 
-## datasets trad
+## ai models
+- https://huggingface.co/cawoylel/fula_speechcorpora_mms
+- fula adamawa, borgu, bororro, caka, liptako, maacina
+  - https://huggingface.co/datasets/cawoylel/FulaSpeechCorpora/viewer/default/liptako
 
-- dictionnaries
-  - dico en ligne : https://www.webonary.org/pular/
+
+## datasets trad
+### dictionaries
+#### online dictionaries
+  - https://www.webonary.org/pular/
   - https://glosbe.com/
 
-wikipedia fula https://ff.wikipedia.org/wiki/Hello_ja%C9%93%C9%93orgo
-- + bitextor?  https://bitextor.readthedocs.io/en/latest/ 
-  - tool to automatically harvest bitexts from multilingual websites.
-
-cantique eglise adventiste en fulfude https://github.com/Touza-Isaac/Deftere-Gimmi-Be-Fulfulde
-version fr : https://www.hymnes.net/
-https://adventlife.fr/hymnes-et-louanges/a-celui-qui-nous-a-sauves-079/
-
-- professeur de pular
-  - https://www.youtube.com/watch?v=vZkuHlujBfY
-
+#### pdf dictionaries
 - Dictionnaire peul de l'agriculture et de la nature
   - https://collaboratif.cirad.fr/alfresco/s/d/workspace/SpacesStore/1bdf94f6-8c47-44e0-9772-a8f0e886fb41/16976.pdf
 
 - Dictionnaire peul du corps et de la santé
   -  https://horizon.documentation.ird.fr/exl-doc/pleins_textes/2022-03/010045999.pdf
 
-- https://tatoeba.org/fr/about
+### other
+- wikipedia fula https://ff.wikipedia.org/wiki/Hello_ja%C9%93%C9%93orgo
+  - bitextor?  https://bitextor.readthedocs.io/en/latest/ 
+    - tool to automatically harvest bitexts from multilingual websites.
 
-# ai models
-- https://huggingface.co/cawoylel/fula_speechcorpora_mms
-- fula adamawa, borgu, bororro, caka, liptako, maacina
-  - https://huggingface.co/datasets/cawoylel/FulaSpeechCorpora/viewer/default/liptako
+- cantique eglise adventiste en fulfude https://github.com/Touza-Isaac/Deftere-Gimmi-Be-Fulfulde
+  - version fr : https://www.hymnes.net/
+  - https://adventlife.fr/hymnes-et-louanges/a-celui-qui-nous-a-sauves-079/
 
-# dataset audio
+- professeur de pular youtube
+  - https://www.youtube.com/watch?v=vZkuHlujBfY
+
+## dataset audio
 
 - common voice __support-needed!!__
   - https://pontoon.mozilla.org/ff/sumo/all-resources/?status=missing&string=213319
@@ -41,6 +44,7 @@ https://adventlife.fr/hymnes-et-louanges/a-celui-qui-nous-a-sauves-079/
   - West African Virtual Assistant Speech Recognition Corpus - CC BY-SA 4.0
   - French, Maninka, Pular and Susu
   - https://www.openslr.org/106/
+
 - West African Radio Corpus - for unsupervised training
   - CC BY-SA 4.0
   - French, Guerze, Koniaka, Kissi, Kono, Maninka, Mano, Pular, Susu, and Toma
@@ -58,22 +62,20 @@ https://adventlife.fr/hymnes-et-louanges/a-celui-qui-nous-a-sauves-079/
 - fleurs
   - https://huggingface.co/datasets/google/fleurs ? prend tout ?
   - https://huggingface.co/datasets/google/xtreme_s/viewer/fleurs.ff_sn
-  - exploitable dans tensorflow pour tester ?
     - https://www.tensorflow.org/datasets/catalog/xtreme_s#xtreme_sfleursff_sn
 
-we have automatically translated English training sets to other languages and tests sets to English.
-for the following datasets: SQuAD v1.1 (only train and dev), MLQA, PAWS-X, TyDiQA-GoldP, XNLI, and XQuAD.
-
-For PAWS-X and XNLI, the translations are in the following format: Column 1 and Column 2: original sentence pairs Column 3 and Column 4: translated sentence pairs Column 5: label
-
-https://storage.googleapis.com/xtreme_translations/FLEURS/ff_sn.tar.gz
+  - "we have automatically translated English training sets to other languages and tests sets to English.
+for the following datasets: SQuAD v1.1 (only train and dev), MLQA, PAWS-X, TyDiQA-GoldP, XNLI, and XQuAD. For PAWS-X and XNLI, the translations are in the following format: Column 1 and Column 2: original sentence pairs Column 3 and Column 4: translated sentence pairs Column 5: label"
+    - https://storage.googleapis.com/xtreme_translations/FLEURS/ff_sn.tar.gz
 
 
 # utils
-- keyboa :  keyboard://play.google.com/store/apps/details?id=com.type.fulfulde.fula.english.keyboard.fulfuldekeyboard.infra&hl=de_CH
+- keyboard :  keyboard://play.google.com/store/apps/details?id=com.type.fulfulde.fula.english.keyboard.fulfuldekeyboard.infra&hl=de_CH
 
-- correcteur
+- spelling checker 
   - https://github.com/BirdiD/Spelling-corrector-Pulaar
-- predict the suffix form of a given fula noun https://github.com/yaya-sy/fula_noun_suffix_alternantions
+- predict the suffix form of a given fula noun 
+  - https://github.com/yaya-sy/fula_noun_suffix_alternantions
 
-- interactive map of fula speakers https://github.com/maria-kosogorova/FulaLanguageMap
+- interactive map of fula speakers 
+  - https://github.com/maria-kosogorova/FulaLanguageMap
