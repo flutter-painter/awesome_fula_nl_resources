@@ -4,7 +4,7 @@
 a b ɓ mb c d ɗ nd e f g ng h i j nj k l m n ŋ ñ o p q r s sh t u w x y ƴ z
 
 ## ai models
-- https://huggingface.co/cawoylel/fula_speechcorpora_mms
+- https://huggingface.co/cawoylel/windanam_mms-1b-tts_v2
 - fula adamawa, borgu, bororro, caka, liptako, maacina
   - https://huggingface.co/datasets/cawoylel/FulaSpeechCorpora/viewer/default/liptako
 
