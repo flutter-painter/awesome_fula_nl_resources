@@ -3,17 +3,31 @@
 ## alphabet
 a b ɓ mb c d ɗ nd e f g ng h i j nj k l m n ŋ ñ o p q r s sh t u w x y ƴ z
 
+## norm
+atlantic congo language - Senegambian languages
+
 ## ai models
 - https://huggingface.co/cawoylel/fula_speechcorpora_mms
 - fula adamawa, borgu, bororro, caka, liptako, maacina
   - https://huggingface.co/datasets/cawoylel/FulaSpeechCorpora/viewer/default/liptako
 
-
 ## datasets trad
+- ellaf http://ellaf.huma-num.fr/corpora/textes-peuls/
+
+### religious
+- new testament
+  - fl - https://app.thedigitalbiblelibrary.org/entry?id=9b076bc0f1856204
+  - fr - https://www.bible.com/fr/bible/63/1CO.3.BFC
+
+- coran
+  - https://islamhouse.com/ff/main/
+  - https://ia902707.us.archive.org/1/items/quran-fula/quran-fula_text.pdf
+
 ### dictionaries
 #### online dictionaries
-  - https://www.webonary.org/pular/
-  - https://glosbe.com/
+- https://www.webonary.org/pular/
+- https://glosbe.com/
+- english to fulani : https://pink-frannie-25.tiiny.site/
 
 #### pdf dictionaries
 - Dictionnaire peul de l'agriculture et de la nature
@@ -22,19 +36,25 @@ a b ɓ mb c d ɗ nd e f g ng h i j nj k l m n ŋ ñ o p q r s sh t u w x y ƴ z
 - Dictionnaire peul du corps et de la santé
   -  https://horizon.documentation.ird.fr/exl-doc/pleins_textes/2022-03/010045999.pdf
 
+- Vocabulaire du monde rural
+  - https://www.google.com/url?q=https://shs.hal.science/halshs-03265219/document&sa=U&ved=2ahUKEwis7-Kj7aWDAxVGfKQEHWG7D8w4KBAWegQIBxAC&usg=AOvVaw3mSoxTzRnoxuZ3LZS1nZNz
+
 ### other
-- wikipedia fula https://ff.wikipedia.org/wiki/Hello_ja%C9%93%C9%93orgo
-  - bitextor?  https://bitextor.readthedocs.io/en/latest/ 
-    - tool to automatically harvest bitexts from multilingual websites.
+- existing literature index : https://senelangues.huma-num.fr/pdf/peul.pdf
 
-- cantique eglise adventiste en fulfude https://github.com/Touza-Isaac/Deftere-Gimmi-Be-Fulfulde
-  - version fr : https://www.hymnes.net/
-  - https://adventlife.fr/hymnes-et-louanges/a-celui-qui-nous-a-sauves-079/
-
+- [wikipedia fula](https://ff.wikipedia.org/wiki/Hello_ja%C9%93%C9%93orgo)
+  
 - professeur de pular youtube
   - https://www.youtube.com/watch?v=vZkuHlujBfY
 
-## dataset audio
+## datasets audio
+- https://www.deftepulaar.com/fuc/francais-pulaar
+
+- https://deftepulaar.com/fr/node/6 - daarol aladin (4h24 !)
+- Ɗam Nguurndam - 2h03
+
+- https://deftepulaar.com/fr/amadou-hampate-bah
+  - audio + disponible sur wikipedia : https://ff.wikipedia.org/wiki/Amadou_Hamp%C3%A2te_Bah
 
 - common voice __support-needed!!__
   - https://pontoon.mozilla.org/ff/sumo/all-resources/?status=missing&string=213319
@@ -56,26 +76,47 @@ a b ɓ mb c d ɗ nd e f g ng h i j nj k l m n ŋ ñ o p q r s sh t u w x y ƴ z
   - https://www.faithcomesbyhearing.com/
   - https://find.bible/en/bibles/
 
-- coran
-  - https://islamhouse.com/ff/main/
 
 - fleurs
-  - https://huggingface.co/datasets/google/fleurs ? prend tout ?
-  - https://huggingface.co/datasets/google/xtreme_s/viewer/fleurs.ff_sn
-    - https://www.tensorflow.org/datasets/catalog/xtreme_s#xtreme_sfleursff_sn
+  - https://huggingface.co/datasets/google/fleurs
+  - Pulaar Sénégal
+    - https://huggingface.co/datasets/google/xtreme_s/viewer/fleurs.ff_sn
+      - https://www.tensorflow.org/datasets/catalog/xtreme_s#xtreme_sfleursff_sn
+
+### only audio
+- https://deftepulaar.com/fr/node/71
 
   - "we have automatically translated English training sets to other languages and tests sets to English.
 for the following datasets: SQuAD v1.1 (only train and dev), MLQA, PAWS-X, TyDiQA-GoldP, XNLI, and XQuAD. For PAWS-X and XNLI, the translations are in the following format: Column 1 and Column 2: original sentence pairs Column 3 and Column 4: translated sentence pairs Column 5: label"
     - https://storage.googleapis.com/xtreme_translations/FLEURS/ff_sn.tar.gz
 
+- nice song :
+  - http://ellaf.huma-num.fr/neene-baaba-grand-mere/
 
-# utils
+## utils
 - keyboard :  keyboard://play.google.com/store/apps/details?id=com.type.fulfulde.fula.english.keyboard.fulfuldekeyboard.infra&hl=de_CH
+
+### android apps
+- Defte Pulaar books (read)
+https://play.google.com/store/apps/details?id=org.ips.bah.fuc.defte
+
+- Fula: Pulaar To English (learn translations)
+https://play.google.com/store/apps/details?id=techrisemedia.com.fula&hl=en&gl=US
 
 - spelling checker 
   - https://github.com/BirdiD/Spelling-corrector-Pulaar
+
 - predict the suffix form of a given fula noun 
   - https://github.com/yaya-sy/fula_noun_suffix_alternantions
 
 - interactive map of fula speakers 
   - https://github.com/maria-kosogorova/FulaLanguageMap
+
+
+## fulfulde
+- Nigerian Fulfulde
+  - https://huggingface.co/datasets/gsarti/flores_101/viewer/ful
+
+- cantique eglise adventiste en fulfude https://github.com/Touza-Isaac/Deftere-Gimmi-Be-Fulfulde
+  - version fr : https://www.hymnes.net/
+  - https://adventlife.fr/hymnes-et-louanges/a-celui-qui-nous-a-sauves-079/
