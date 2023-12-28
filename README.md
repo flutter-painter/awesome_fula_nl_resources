@@ -11,6 +11,11 @@ atlantic congo language - Senegambian languages
 - fula adamawa, borgu, bororro, caka, liptako, maacina
   - https://huggingface.co/datasets/cawoylel/FulaSpeechCorpora/viewer/default/liptako
 
+## dataset unlabeled text 
+- https://pulaar.org/
+- [wikipedia fula](https://ff.wikipedia.org/wiki/Hello_ja%C9%93%C9%93orgo)
+
+
 ## datasets trad
 - ellaf http://ellaf.huma-num.fr/corpora/textes-peuls/
 
@@ -21,7 +26,8 @@ atlantic congo language - Senegambian languages
 
 - coran
   - https://islamhouse.com/ff/main/
-  - https://ia902707.us.archive.org/1/items/quran-fula/quran-fula_text.pdf
+  - https://archive.org/details/Quran_Ful
+  - https://ia803107.us.archive.org/30/items/Quran_Ful/Quran_ful_text.pdf
 
 ### dictionaries
 #### online dictionaries
@@ -40,9 +46,9 @@ atlantic congo language - Senegambian languages
   - https://www.google.com/url?q=https://shs.hal.science/halshs-03265219/document&sa=U&ved=2ahUKEwis7-Kj7aWDAxVGfKQEHWG7D8w4KBAWegQIBxAC&usg=AOvVaw3mSoxTzRnoxuZ3LZS1nZNz
 
 ### other
-- existing literature index : https://senelangues.huma-num.fr/pdf/peul.pdf
-
-- [wikipedia fula](https://ff.wikipedia.org/wiki/Hello_ja%C9%93%C9%93orgo)
+#### literature review
+- about the language : https://senelangues.huma-num.fr/pdf/peul.pdf
+- about the people : https://www.webpulaaku.site/defte/index.html
   
 - professeur de pular youtube
   - https://www.youtube.com/watch?v=vZkuHlujBfY
