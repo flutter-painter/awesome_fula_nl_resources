@@ -1,41 +1,51 @@
-# fula peul
+> fula peul
 
-## alphabet
-a b ɓ mb c d ɗ nd e f g ng h i j nj k l m n ŋ ñ o p q r s sh t u w x y ƴ z
-
-## norm
+# norm
 atlantic congo language - Senegambian languages
 
-## ai models
+# ai models
 - https://huggingface.co/cawoylel/fula_speechcorpora_mms
 - fula adamawa, borgu, bororro, caka, liptako, maacina
   - https://huggingface.co/datasets/cawoylel/FulaSpeechCorpora/viewer/default/liptako
 
-## dataset unlabeled text 
+# dataset unlabeled text 
 - https://pulaar.org/
 - [wikipedia fula](https://ff.wikipedia.org/wiki/Hello_ja%C9%93%C9%93orgo)
 
 
-## datasets trad
+# datasets trad
 - ellaf http://ellaf.huma-num.fr/corpora/textes-peuls/
 
-### religious
+## religious
+### bible
+#### new testament 
+- sql
+  - fula (guinea) - https://ebible.org/details.php?id=fuf
+  - french - https://ebible.org/details.php?id=frasbl
+
 - new testament
   - fl - https://app.thedigitalbiblelibrary.org/entry?id=9b076bc0f1856204
   - fr - https://www.bible.com/fr/bible/63/1CO.3.BFC
 
-- coran
+### coran
+- [translations](https://tanzil.net/trans/)
+- the ocr transcription is, as often in pulaar, awkward (e.g. ɓ => 6 ...)
+- écrire au centre guinée d'étude et de traducation au Dr Tafsir Baldé 
+  - cgetra.sarlu@gmail.com
+- it is better to 
+  - https://islamhouse.com/quran/fulani_rwwad/sura-1.html 
+- fula :
   - https://islamhouse.com/ff/main/
   - https://archive.org/details/Quran_Ful
   - https://ia803107.us.archive.org/30/items/Quran_Ful/Quran_ful_text.pdf
 
-### dictionaries
-#### online dictionaries
+## dictionaries
+## online dictionaries
 - https://www.webonary.org/pular/
 - https://glosbe.com/
 - english to fulani : https://pink-frannie-25.tiiny.site/
 
-#### pdf dictionaries
+## pdf dictionaries
 - Dictionnaire peul de l'agriculture et de la nature
   - https://collaboratif.cirad.fr/alfresco/s/d/workspace/SpacesStore/1bdf94f6-8c47-44e0-9772-a8f0e886fb41/16976.pdf
 
@@ -45,15 +55,15 @@ atlantic congo language - Senegambian languages
 - Vocabulaire du monde rural
   - https://www.google.com/url?q=https://shs.hal.science/halshs-03265219/document&sa=U&ved=2ahUKEwis7-Kj7aWDAxVGfKQEHWG7D8w4KBAWegQIBxAC&usg=AOvVaw3mSoxTzRnoxuZ3LZS1nZNz
 
-### other
-#### literature review
+## other
+## literature review
 - about the language : https://senelangues.huma-num.fr/pdf/peul.pdf
 - about the people : https://www.webpulaaku.site/defte/index.html
   
 - professeur de pular youtube
   - https://www.youtube.com/watch?v=vZkuHlujBfY
 
-## datasets audio
+# datasets audio
 - https://www.deftepulaar.com/fuc/francais-pulaar
 
 - https://deftepulaar.com/fr/node/6 - daarol aladin (4h24 !)
@@ -89,7 +99,7 @@ atlantic congo language - Senegambian languages
     - https://huggingface.co/datasets/google/xtreme_s/viewer/fleurs.ff_sn
       - https://www.tensorflow.org/datasets/catalog/xtreme_s#xtreme_sfleursff_sn
 
-### only audio
+## only audio
 - https://deftepulaar.com/fr/node/71
 
   - "we have automatically translated English training sets to other languages and tests sets to English.
@@ -99,10 +109,10 @@ for the following datasets: SQuAD v1.1 (only train and dev), MLQA, PAWS-X, TyDiQ
 - nice song :
   - http://ellaf.huma-num.fr/neene-baaba-grand-mere/
 
-## utils
+# utils
 - keyboard :  keyboard://play.google.com/store/apps/details?id=com.type.fulfulde.fula.english.keyboard.fulfuldekeyboard.infra&hl=de_CH
 
-### android apps
+## android apps
 - Defte Pulaar books (read)
 https://play.google.com/store/apps/details?id=org.ips.bah.fuc.defte
 
@@ -119,7 +129,7 @@ https://play.google.com/store/apps/details?id=techrisemedia.com.fula&hl=en&gl=US
   - https://github.com/maria-kosogorova/FulaLanguageMap
 
 
-## fulfulde
+# fulfulde
 - Nigerian Fulfulde
   - https://huggingface.co/datasets/gsarti/flores_101/viewer/ful
 
