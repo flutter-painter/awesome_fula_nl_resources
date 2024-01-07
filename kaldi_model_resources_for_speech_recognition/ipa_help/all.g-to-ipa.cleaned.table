@@ -580,7 +580,7 @@ bul		ѓ	CYRILLIC	d̪ʲ	1.0
 bul		џ	CYRILLIC	d̠ʒ	1.0
 bul		ќ	CYRILLIC	t̪ʲ	1.0
 bul		њ	CYRILLIC	nʲ	1.0
-bul		’	UNK	-	1.0
+bul		'	UNK	-	1.0
 bul		ј	CYRILLIC	j	1.0
 bul		ч	CYRILLIC	t̠ʃ	1.0
 bul		ц	CYRILLIC	t̪s̪	1.0
@@ -3556,7 +3556,7 @@ mkd		њ	CYRILLIC	ɲ	1.0
 mkd		љ	CYRILLIC	ɲ	1.0
 mkd		ј	CYRILLIC	j	1.0
 mkd		џ	CYRILLIC	d̠ʒ	1.0
-mkd		’	UNK	ə	1.0
+mkd		'	UNK	ə	1.0
 mkd		ќ	CYRILLIC	c	1.0
 mkd		п	CYRILLIC	p	1.0
 mkd		-	UNK	-	1.0
@@ -3950,7 +3950,7 @@ nav		dl	LATIN	ɬ̪	0.5
 nav		dl	LATIN	t̪	0.5
 nav		ee	LATIN	ɛ	0.5
 nav		ee	LATIN	h	0.5
-nav		’	UNK	ʔ	1.0
+nav		'	UNK	ʔ	1.0
 nav		sh	LATIN	ʃ	1.0
 nav		į́į́	LATIN	i	0.5
 nav		į́į́	LATIN	h	0.5
