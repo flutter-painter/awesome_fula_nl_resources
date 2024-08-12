@@ -29,11 +29,7 @@ atlantic congo language - Senegambian languages
 
 ### coran
 - [translations](https://tanzil.net/trans/)
-- the ocr transcription is, as often in pulaar, awkward (e.g. ɓ => 6 ...)
-- écrire au centre guinée d'étude et de traducation au Dr Tafsir Baldé 
-  - cgetra.sarlu@gmail.com
-- it is better to 
-  - https://islamhouse.com/quran/fulani_rwwad/sura-1.html 
+- https://islamhouse.com/quran/fulani_rwwad/sura-1.html 
 - fula :
   - https://islamhouse.com/ff/main/
   - https://archive.org/details/Quran_Ful
