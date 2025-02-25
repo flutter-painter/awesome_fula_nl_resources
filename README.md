@@ -1,17 +1,23 @@
-> fula peul
-
-# norm
-atlantic congo language - Senegambian languages
+> ISO 639-1	ff – Fulah
+> ISO 639-2	ful – Fulah
+> fuf – Pular (Guinea, Sierra Leone)
+> atlantic congo language - Senegambian languages
 
 # crowdsourcing
 - Building language technology tools for Fula https://cawoylel.com/
 - Common Voice / Pootoon - https://pontoon.mozilla.org/ff/common-voice/
 
-# translation + speech to text
+***
+
+# models
+## models translation + speech to text
 - https://firtanam.cawoylel.com/
 
-# translation 
+# models translation 
 - https://huggingface.co/spaces/flutter-painter/nllb-fra-fuf-v2
+
+
+***
 
 # dataset unlabeled text 
 - https://pulaar.org/
@@ -19,6 +25,14 @@ atlantic congo language - Senegambian languages
 
 # datasets translation
 - ellaf http://ellaf.huma-num.fr/corpora/textes-peuls/
+
+## wikimedia
+- fr - https://object.pouta.csc.fi/OPUS-QED/v2.0a/mono/fr.txt.gz
+- ff - https://object.pouta.csc.fi/OPUS-wikimedia/v20230407/mono/ff.txt.gz
+
+## QED
+- fr - https://object.pouta.csc.fi/OPUS-QED/v2.0a/mono/fr.txt.gz
+- ff - https://object.pouta.csc.fi/OPUS-QED/v2.0a/mono/ff.txt.gz
 
 ## religious
 - included in src_full.text && tgt_full.text
