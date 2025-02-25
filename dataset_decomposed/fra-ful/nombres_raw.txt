@@ -1,0 +1,50 @@
+un + gooto
+deux + ɗiɗi
+trois + tati
+quatre + nay
+cinq + joy
+six + jeego
+sept + jeɗi
+huit + jeetati
+neuf + jeenay
+dix + sappo
+onze + sappo e gooto
+douze + sappo e ɗiɗi
+treize + sappo e tati
+quatorze + sappo e nay
+quinze + sapo e jowi
+seize + sappo e jego
+dix-sept + sappo e jeɗi
+dix-huit + sappo e jeetati
+dix-neuf + sappo et jeenay
+vingt + noo gay
+vingt et un + noogay e gooto
+vingt deux + noogay e ɗiɗi
+vingt trois + noogay e tati
+vingt quatre + noogay e nay
+vingt cinq + noogay e jowi
+vingt six + noogay e jeego
+vingt sept + noogay e jeɗi
+vingt huit + noogay e jeetati
+vingt neuf + noogay e jeenay
+trente + cappanɗe tati
+trente et un  + cappanɗe tati e gooto
+trente deux + cappanɗe tati e ɗiɗi
+trente trois + cappanɗe tati e tati
+trente quatre + cappanɗe tati a nay
+trente cinq + cappanɗe tati e jowi
+trente six + cappanɗe tati e jeego
+trente sept + cappanɗe tati e jeɗi
+trente huit + cappanɗe tati e jeetati
+trente neuf + cappanɗe tati e jeenay
+quarante + cappanɗe nay
+quarante et un + cappanɗe nay e gooto
+quarante deux + cappanɗe nay e ɗiɗi
+quarante trois + cappanɗe nay e tati
+quarante quatre + cappanɗe nay e nay
+quarante cinq + cappanɗe nay e jowi
+quarante six + cappanɗe nay e jeego
+quarante sept + cappanɗe nay e jeeɗi
+quarante huit + cappanɗe nay e jeetati
+quarante neuf + cappanɗe nay e jeenay
+cinquante + cappanɗe jowi
