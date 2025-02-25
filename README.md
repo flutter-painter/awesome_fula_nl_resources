@@ -3,20 +3,26 @@
 # norm
 atlantic congo language - Senegambian languages
 
-# ai models
-- https://huggingface.co/cawoylel/fula_speechcorpora_mms
-- fula adamawa, borgu, bororro, caka, liptako, maacina
-  - https://huggingface.co/datasets/cawoylel/FulaSpeechCorpora/viewer/default/liptako
+# crowdsourcing
+- Building language technology tools for Fula https://cawoylel.com/
+- Common Voice / Pootoon - https://pontoon.mozilla.org/ff/common-voice/
+
+# translation + speech to text
+- https://firtanam.cawoylel.com/
+
+# translation 
+- https://huggingface.co/spaces/flutter-painter/nllb-fra-fuf-v2
 
 # dataset unlabeled text 
 - https://pulaar.org/
 - [wikipedia fula](https://ff.wikipedia.org/wiki/Hello_ja%C9%93%C9%93orgo)
 
-
-# datasets trad
+# datasets translation
 - ellaf http://ellaf.huma-num.fr/corpora/textes-peuls/
 
 ## religious
+- included in src_full.text && tgt_full.text
+
 ### bible
 #### new testament 
 - sql
@@ -55,9 +61,8 @@ atlantic congo language - Senegambian languages
 ## literature review
 - about the language : https://senelangues.huma-num.fr/pdf/peul.pdf
 - about the people : https://www.webpulaaku.site/defte/index.html
-  
-- professeur de pular youtube
-  - https://www.youtube.com/watch?v=vZkuHlujBfY
+
+- youtube teacher : https://www.youtube.com/watch?v=vZkuHlujBfY
 
 # datasets audio
 - https://www.deftepulaar.com/fuc/francais-pulaar
@@ -88,7 +93,6 @@ atlantic congo language - Senegambian languages
   - https://www.faithcomesbyhearing.com/
   - https://find.bible/en/bibles/
 
-
 - fleurs
   - https://huggingface.co/datasets/google/fleurs
   - Pulaar Sénégal
@@ -98,7 +102,7 @@ atlantic congo language - Senegambian languages
 ## only audio
 - https://deftepulaar.com/fr/node/71
 
-  - "we have automatically translated English training sets to other languages and tests sets to English.
+- "we have automatically translated English training sets to other languages and tests sets to English.
 for the following datasets: SQuAD v1.1 (only train and dev), MLQA, PAWS-X, TyDiQA-GoldP, XNLI, and XQuAD. For PAWS-X and XNLI, the translations are in the following format: Column 1 and Column 2: original sentence pairs Column 3 and Column 4: translated sentence pairs Column 5: label"
     - https://storage.googleapis.com/xtreme_translations/FLEURS/ff_sn.tar.gz
 
@@ -106,7 +110,7 @@ for the following datasets: SQuAD v1.1 (only train and dev), MLQA, PAWS-X, TyDiQ
   - http://ellaf.huma-num.fr/neene-baaba-grand-mere/
 
 # utils
-- keyboard :  keyboard://play.google.com/store/apps/details?id=com.type.fulfulde.fula.english.keyboard.fulfuldekeyboard.infra&hl=de_CH
+- keyboard : keyboard://play.google.com/store/apps/details?id=com.type.fulfulde.fula.english.keyboard.fulfuldekeyboard.infra&hl=de_CH
 
 ## android apps
 - Defte Pulaar books (read)
