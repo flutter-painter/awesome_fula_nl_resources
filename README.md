@@ -1,6 +1,7 @@
-> ISO 639-2	ful – Fulah
-> fuf – Pular (Guinea, Sierra Leone)
-> atlantic congo language - Senegambian languages
+- ff (ISO 639-1)
+- ful – Fulah (ISO 639-2)
+- fuf – Pular (Guinea, Sierra Leone)
+- atlantic congo language - Senegambian languages
 
 # dataset licenses
 
@@ -30,11 +31,12 @@
 - [wikipedia fula](https://ff.wikipedia.org/wiki/Hello_ja%C9%93%C9%93orgo)
 
 # datasets translation
-- ellaf http://ellaf.huma-num.fr/corpora/textes-peuls/
-
-## wikimedia
-- fr - https://object.pouta.csc.fi/OPUS-QED/v2.0a/mono/fr.txt.gz
-- ff - https://object.pouta.csc.fi/OPUS-wikimedia/v20230407/mono/ff.txt.gz
+## en - ff
+- NLLB   https://opus.nlpl.eu/NLLB/en&ff/v1/NLLB
+## fr - ff
+- wikimedia
+  - fr - https://object.pouta.csc.fi/OPUS-QED/v2.0a/mono/fr.txt.gz
+  - ff - https://object.pouta.csc.fi/OPUS-wikimedia/v20230407/mono/ff.txt.gz
 
 ## QED
 - fr - https://object.pouta.csc.fi/OPUS-QED/v2.0a/mono/fr.txt.gz
@@ -60,6 +62,10 @@
   - https://islamhouse.com/ff/main/
   - https://archive.org/details/Quran_Ful
   - https://ia803107.us.archive.org/30/items/Quran_Ful/Quran_ful_text.pdf
+
+### copyrighted
+- ellaf http://ellaf.huma-num.fr/corpora/textes-peuls/
+
 
 ## dictionaries
 ## online dictionaries
