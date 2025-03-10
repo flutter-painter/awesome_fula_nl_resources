@@ -1,7 +1,13 @@
-> ISO 639-1	ff – Fulah
 > ISO 639-2	ful – Fulah
 > fuf – Pular (Guinea, Sierra Leone)
 > atlantic congo language - Senegambian languages
+
+# dataset licenses
+
+- [Dictionnaire Pular](https://www.webonary.org/pular/) by Oumar Bah 2014 © & SIL
+- [neene baaba](http://ellaf.huma-num.fr/neene-baaba-grand-mere/) © Tidiane Maloun Barry - ELLAF
+- [Boobo](http://ellaf.huma-num.fr/boobo-bebe/) © Tidiane Maloun Barry - ELLAF
+
 
 # crowdsourcing
 - Building language technology tools for Fula https://cawoylel.com/
