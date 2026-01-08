@@ -33,16 +33,16 @@
 ##  1. <a name='context'></a>context
 
 Fula (Fulani) is a language spoken by 40 million people across 18 countries in West and Central Africa.
-It belongs to the Niger-Congo family, specifically the Atlantic-Congo branch, under the Atlantic group known as Senegambian languages. It is composed of numerous dialects, including Pulaar, Fulfulde, and Maasina.
+It belongs to the Niger-Congo family, specifically the Atlantic-Congo branch, under the Atlantic group known as Senegambian languages. It is composed of numerous dialects, including Pulaar, Fulfulde, and Maasina (see [types_of_fula.md](types_of_fula.md))
 
-ISO-639 codes : 
+ISO-639 codes:
 - ff (ISO 639-1)
 - ful – Fulah (ISO 639-2)
 - fuf – Pular (Guinea, Sierra Leone) 
 
 [alphabet](alphabet.txt)
 
-![FulaLanguageMap](FulaLanguageMap.png)
+![Fula Language Speakers Map](maps/FulaLanguageMap.png)
 
 _map from [maria-kosogorova FulaLanguageMap](https://github.com/maria-kosogorova/FulaLanguageMap)_
 
