@@ -1,0 +1,3 @@
+- [French Pular Dictionary](https://www.webonary.org/pular/) by Oumar Bah 2014 © & SIL
+- [neene baaba](http://ellaf.huma-num.fr/neene-baaba-grand-mere/) © Tidiane Maloun Barry - ELLAF
+- [Boobo](http://ellaf.huma-num.fr/boobo-bebe/) © Tidiane Maloun Barry - ELLAF
