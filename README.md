@@ -32,13 +32,25 @@
 
 ##  1. <a name='context'></a>context
 
-Fula (Fulani) is a language spoken by 40 million people across 18 countries in West and Central Africa.
-It belongs to the Niger-Congo family, specifically the Atlantic-Congo branch, under the Atlantic group known as Senegambian languages. It is composed of numerous dialects, including Pulaar, Fulfulde, and Maasina (see [types_of_fula.md](types_of_fula.md))
+Fula/Fulani is a language spoken by 40 million people across 18 countries in West and Central Africa.
 
-ISO-639 codes:
-- ff (ISO 639-1)
-- ful – Fulah (ISO 639-2)
-- fuf – Pular (Guinea, Sierra Leone) 
+It belongs to the Niger-Congo family, specifically the Atlantic-Congo branch, under the Atlantic group known as Senegambian languages. It is composed of numerous dialects, including Pulaar, Fulfulde, and Maasina.
+
+Resources mentioned here favour Pular spoken in Guinea.
+
+## ISO-639 codes
+- 639-1 : ff - Fula/Fulah
+- ISO 639-2 : ful – Fula/Fulah
+- ISO 639-3 codes according to [ethnologue.com](https://www.ethnologue.com/subgroup/3024/) and [sil.org](https://iso639-3.sil.org/code/ful):
+	- fuc – Pulaar (Senegambia, Mauritania)
+	- fuf – Pular (Guinea, Sierra Leone)
+	- ffm – Maasina Fulfulde (Mali, Ivory Coast, and Ghana by 1.6 m)
+	- fue – Borgu Fulfulde (Benin, Togo)
+	- fuh – Western Niger Fulfulde (Burkina, Niger)
+	- fuq – Central–Eastern Niger Fulfulde (Niger)
+	- fuv – Nigerian Fulfulde (Nigeria)
+	- fub – Adamawa Fulfulde (Cameroon, Chad, Nigeria)
+	- fui – Bagirmi Fulfulde (CAR)(Chad)
 
 [alphabet](alphabet.txt)
 
@@ -51,6 +63,11 @@ _map from [maria-kosogorova FulaLanguageMap](https://github.com/maria-kosogorova
 
 ###  2.1. <a name='machinelearningmodels'></a>machine learning models
 - translation & speech to text - [firtanam.cawoylel.com](https://firtanam.cawoylel.com/) 
+- translations - [sil.org Alpha 2](https://alpha2.multilingualai.com/languages?sourceCollectionId=50092&translationModelId=&ttsModelId=null&targetLanguage=fuh&page=1&pageSize=50)
+	- fuq - Central-Eastern Niger - fine-tuned NLLB and Alpine models
+	- ffm - Maasina -  fine-tuned NLLB and Alpine models
+	- fuv - Nigerian - NLLB only
+
 - translation only - [huggingface.co/spaces/flutter-painter/nllb-fra-fuf-v2](https://huggingface.co/spaces/flutter-painter/nllb-fra-fuf-v2)
 
 ###  2.2. <a name='crowdsourcingplatforms'></a>crowdsourcing platforms
