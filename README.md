@@ -130,7 +130,8 @@ sources :
 
 
 ###  3.4. <a name='datasetsaudio'></a>datasets audio
-- [pangloss cnrs](https://pangloss.cnrs.fr/corpus/show?oai_primary=cocoon-a55e0b18-39fd-4609-9e0b-1839fd760918&oai_secondary=cocoon-9f8493e7-13b5-4805-8493-e713b5b805c8&filter=%7B%22form-s%22%3A%7B%22phono%22%3A1%7D%2C%22transl-s%22%3A%7B%22en%22%3A1%7D%2C%22transl-t%22%3A%7B%22en%22%3A0%7D%2C%22form-t%22%3A%7B%22phono%22%3A0%7D%7D)
+- Pangloss CNRS
+	- [Les Peuls donnent aux Bangande le nom de Dicko](https://pangloss.cnrs.fr/corpus/show?oai_primary=cocoon-a55e0b18-39fd-4609-9e0b-1839fd760918&oai_secondary=cocoon-9f8493e7-13b5-4805-8493-e713b5b805c8&filter=%7B%22form-s%22%3A%7B%22phono%22%3A1%7D%2C%22transl-s%22%3A%7B%22en%22%3A1%7D%2C%22transl-t%22%3A%7B%22en%22%3A0%7D%2C%22form-t%22%3A%7B%22phono%22%3A0%7D%7D)
 
 - [deftepulaar.com](https://www.deftepulaar.com/)
 
