@@ -75,7 +75,7 @@ _map from [maria-kosogorova FulaLanguageMap](https://github.com/maria-kosogorova
 - [Common Voice ff / Pootoon](https://pontoon.mozilla.org/ff/common-voice/)
 
 ###  2.3. <a name='androidapps'></a>android apps
-- books: [Defte Pulaar](https://play.google.com/store/apps/details?id=org.ips.bah.fuc.defte)
+- books: [Defte Pulaar](https://play.google.com/store/apps/details?id=com.defte.pulaar.fuc.mali)
 - Pulaar - English translations: [Fula: Pulaar To English](https://play.google.com/store/apps/details?id=techrisemedia.com.fula&hl=en&gl=US)
 - [Fula android keyboard](https://play.google.com/store/apps/details?id=com.type.fulfulde.fula.english.keyboard.fulfuldekeyboard.infra&hl=de_CH)
 
